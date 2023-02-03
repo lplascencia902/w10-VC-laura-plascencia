@@ -1,0 +1,26 @@
+html{ 
+    background-color: gray;
+    color: brown;
+}
+h1{
+    color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h2{
+    color: aqua;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+ol{
+    list-style-type: square;
+    color: brown;
+    
+}
+.one{
+    background-color: beige;
+    
+
+
+}
+.two{
+    background-color: tan;
+}
